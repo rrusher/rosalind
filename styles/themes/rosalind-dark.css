@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 29 Jun 2023 20:33:11 GMT
+ * Generated on Thu, 15 Aug 2024 21:52:05 GMT
  */
 
 :root {
@@ -230,12 +230,12 @@
   --ros-component-button-border-width-primary-default: 0px;
   --ros-component-button-color-tab-selected-border-color: #00000000;
   --ros-component-button-color-tab-selected-foreground-color: #ffffff;
-  --ros-component-button-color-tab-selected-background-color: #5c5ce0;
+  --ros-component-button-color-tab-selected-background-color: #1473e6;
   --ros-component-button-color-tab-disabled-border-color: #00000000;
   --ros-component-button-color-tab-disabled-foreground-color: #707070;
   --ros-component-button-color-tab-disabled-background-color: #545454;
   --ros-component-button-color-tab-key-focus-border-color: #9d64e1;
-  --ros-component-button-color-tab-key-focus-foreground-color: #5c5ce0;
+  --ros-component-button-color-tab-key-focus-foreground-color: #1473e6;
   --ros-component-button-color-tab-key-focus-background-color: #00000000;
   --ros-component-button-color-tab-down-border-color: #00000000;
   --ros-component-button-color-tab-down-foreground-color: #4646c6;
@@ -250,7 +250,7 @@
   --ros-component-button-color-quiet-disabled-foreground-color: #505050;
   --ros-component-button-color-quiet-disabled-background-color: #00000000;
   --ros-component-button-color-quiet-key-focus-border-color: #9d64e1;
-  --ros-component-button-color-quiet-key-focus-foreground-color: #5c5ce0;
+  --ros-component-button-color-quiet-key-focus-foreground-color: #1473e6;
   --ros-component-button-color-quiet-key-focus-background-color: #00000000;
   --ros-component-button-color-quiet-down-border-color: #00000000;
   --ros-component-button-color-quiet-down-foreground-color: #4646c6;
@@ -259,7 +259,7 @@
   --ros-component-button-color-quiet-hover-foreground-color: #5151d3;
   --ros-component-button-color-quiet-hover-background-color: #00000000;
   --ros-component-button-color-quiet-default-border-color: #00000000;
-  --ros-component-button-color-quiet-default-foreground-color: #5c5ce0;
+  --ros-component-button-color-quiet-default-foreground-color: #1473e6;
   --ros-component-button-color-quiet-default-background-color: #00000000;
   --ros-component-button-color-secondary-disabled-border-color: #707070;
   --ros-component-button-color-secondary-disabled-foreground-color: #707070;
@@ -281,7 +281,7 @@
   --ros-component-button-color-primary-disabled-background-color: #545454;
   --ros-component-button-color-primary-key-focus-border-color: #9d64e1;
   --ros-component-button-color-primary-key-focus-foreground-color: #ffffff;
-  --ros-component-button-color-primary-key-focus-background-color: #5c5ce0;
+  --ros-component-button-color-primary-key-focus-background-color: #1473e6;
   --ros-component-button-color-primary-down-border-color: #00000000;
   --ros-component-button-color-primary-down-foreground-color: #ffffff;
   --ros-component-button-color-primary-down-background-color: #4646c6;
@@ -290,7 +290,7 @@
   --ros-component-button-color-primary-hover-background-color: #5151d3;
   --ros-component-button-color-primary-default-border-color: #00000000;
   --ros-component-button-color-primary-default-foreground-color: #ffffff;
-  --ros-component-button-color-primary-default-background-color: #5c5ce0;
+  --ros-component-button-color-primary-default-background-color: #1473e6;
   --ros-component-button-letter-spacing-label: 0%;
   --ros-component-button-font-weight-label: 400;
   --ros-component-button-line-height-label: 150%;
@@ -322,7 +322,7 @@
   --ros-component-tag-color-down-background-color: #4646c6;
   --ros-component-tag-color-hover-foreground-color: #ffffff;
   --ros-component-tag-color-hover-border-color: #00000000;
-  --ros-component-tag-color-hover-background-color: #5c5ce0;
+  --ros-component-tag-color-hover-background-color: #1473e6;
   --ros-component-tag-color-default-foreground-color: #ebebeb;
   --ros-component-tag-color-default-border-color: #00000000;
   --ros-component-tag-color-default-background-color: #1e293b;
@@ -390,7 +390,7 @@
   --ros-component-text-field-color-key-focus-border-color: #9d64e1;
   --ros-component-text-field-color-key-focus-foreground-color: #ebebeb;
   --ros-component-text-field-color-key-focus-background-color: #00000000;
-  --ros-component-text-field-color-hover-border-color: #5c5ce0;
+  --ros-component-text-field-color-hover-border-color: #1473e6;
   --ros-component-text-field-color-hover-foreground-color: #ebebeb;
   --ros-component-text-field-color-hover-background-color: #00000000;
   --ros-component-text-field-color-default-border-color: #334155;
@@ -426,7 +426,7 @@
   --ros-component-select-color-key-focus-border-color: #9d64e1;
   --ros-component-select-color-key-focus-foreground-color: #ebebeb;
   --ros-component-select-color-key-focus-background-color: #00000000;
-  --ros-component-select-color-hover-border-color: #5c5ce0;
+  --ros-component-select-color-hover-border-color: #1473e6;
   --ros-component-select-color-hover-foreground-color: #ebebeb;
   --ros-component-select-color-hover-background-color: #00000000;
   --ros-component-select-color-default-border-color: #334155;
@@ -455,12 +455,12 @@
   --ros-component-switch-color-key-focus-border-color: #9d64e1;
   --ros-component-switch-color-key-focus-foreground-color: #ebebeb;
   --ros-component-switch-color-key-focus-background-color: #00000000;
-  --ros-component-switch-color-hover-border-color: #5c5ce0;
+  --ros-component-switch-color-hover-border-color: #1473e6;
   --ros-component-switch-color-hover-foreground-color: #ebebeb;
   --ros-component-switch-color-hover-background-color: #00000000;
   --ros-component-switch-color-checked-border-color: #334155;
   --ros-component-switch-color-checked-foreground-color: #ffffff;
-  --ros-component-switch-color-checked-background-color: #5c5ce0;
+  --ros-component-switch-color-checked-background-color: #1473e6;
   --ros-component-switch-color-default-border-color: #334155;
   --ros-component-switch-color-default-foreground-color: #d3d3d3;
   --ros-component-switch-color-default-background-color: #00000000;
@@ -485,12 +485,12 @@
   --ros-component-checkbox-color-key-focus-border-color: #9d64e1;
   --ros-component-checkbox-color-key-focus-foreground-color: #ebebeb;
   --ros-component-checkbox-color-key-focus-background-color: #00000000;
-  --ros-component-checkbox-color-hover-border-color: #5c5ce0;
+  --ros-component-checkbox-color-hover-border-color: #1473e6;
   --ros-component-checkbox-color-hover-foreground-color: #ebebeb;
   --ros-component-checkbox-color-hover-background-color: #00000000;
   --ros-component-checkbox-color-checked-border-color: #334155;
   --ros-component-checkbox-color-checked-foreground-color: #ffffff;
-  --ros-component-checkbox-color-checked-background-color: #5c5ce0;
+  --ros-component-checkbox-color-checked-background-color: #1473e6;
   --ros-component-checkbox-color-default-border-color: #334155;
   --ros-component-checkbox-color-default-foreground-color: #ebebeb;
   --ros-component-checkbox-color-default-background-color: #00000000;
@@ -517,11 +517,11 @@
   --ros-component-radio-color-key-focus-border-color: #9d64e1;
   --ros-component-radio-color-key-focus-foreground-color: #ebebeb;
   --ros-component-radio-color-key-focus-background-color: #00000000;
-  --ros-component-radio-color-hover-border-color: #5c5ce0;
+  --ros-component-radio-color-hover-border-color: #1473e6;
   --ros-component-radio-color-hover-foreground-color: #ebebeb;
   --ros-component-radio-color-hover-background-color: #00000000;
   --ros-component-radio-color-checked-border-color: #334155;
-  --ros-component-radio-color-checked-foreground-color: #5c5ce0;
+  --ros-component-radio-color-checked-foreground-color: #1473e6;
   --ros-component-radio-color-checked-background-color: #00000000;
   --ros-component-radio-color-default-border-color: #334155;
   --ros-component-radio-color-default-foreground-color: #ebebeb;
@@ -556,7 +556,7 @@
   --ros-pattern-header-color-nav-item-level-1-down-background-color: #4646c6;
   --ros-pattern-header-color-nav-item-level-1-hover-border-color: #00000000;
   --ros-pattern-header-color-nav-item-level-1-hover-foreground-color: #ffffff;
-  --ros-pattern-header-color-nav-item-level-1-hover-background-color: #5c5ce0;
+  --ros-pattern-header-color-nav-item-level-1-hover-background-color: #1473e6;
   --ros-pattern-header-color-nav-item-level-1-default-border-color: #00000000;
   --ros-pattern-header-color-nav-item-level-1-default-background-color: #1e293b;
   --ros-pattern-header-color-nav-item-level-1-default-foreground-color: #ebebeb;
@@ -567,10 +567,10 @@
   --ros-pattern-header-color-nav-item-level-0-key-focus-foreground-color: #ebebeb;
   --ros-pattern-header-color-nav-item-level-0-key-focus-background-color: #0f172a;
   --ros-pattern-header-color-nav-item-level-0-down-border-color: #00000000;
-  --ros-pattern-header-color-nav-item-level-0-down-foreground-color: #5c5ce0;
+  --ros-pattern-header-color-nav-item-level-0-down-foreground-color: #1473e6;
   --ros-pattern-header-color-nav-item-level-0-down-background-color: #0f172a;
   --ros-pattern-header-color-nav-item-level-0-hover-border-color: #00000000;
-  --ros-pattern-header-color-nav-item-level-0-hover-foreground-color: #5c5ce0;
+  --ros-pattern-header-color-nav-item-level-0-hover-foreground-color: #1473e6;
   --ros-pattern-header-color-nav-item-level-0-hover-background-color: #0f172a;
   --ros-pattern-header-color-nav-item-level-0-default-border-color: #00000000;
   --ros-pattern-header-color-nav-item-level-0-default-background-color: #0f172a;
@@ -838,13 +838,13 @@
   --ros-semantic-color-primary-darker: #4646c6;
   --ros-semantic-color-primary-dark: #5151d3;
   --ros-semantic-color-primary-light: #7575f1;
-  --ros-semantic-color-primary-base: #5c5ce0;
+  --ros-semantic-color-primary-base: #1473e6;
   --ros-semantic-color-seperator-on-layer-1: #334155;
   --ros-semantic-color-seperator-on-base: #1e293b;
   --ros-semantic-color-border-disabled: #707070;
   --ros-semantic-color-border-key-focus: #9d64e1;
-  --ros-semantic-color-border-down: #5c5ce0;
-  --ros-semantic-color-border-hover: #5c5ce0;
+  --ros-semantic-color-border-down: #1473e6;
+  --ros-semantic-color-border-hover: #1473e6;
   --ros-semantic-color-border-base: #334155;
   --ros-semantic-color-background-disabled: #545454;
   --ros-semantic-color-background-overlay: #0f172ae6;
