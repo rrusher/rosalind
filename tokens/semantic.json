@@ -249,7 +249,7 @@
     "color": {
       "primary": {
         "base": {
-          "value": "{global.color.static.indigo.600}",
+          "value": "{global.color.static.gray.900}",
           "type": "color"
         },
         "light": {
